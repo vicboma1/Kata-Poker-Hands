@@ -1,6 +1,13 @@
 # Kata Poker Hands (WIP) Test 1/8
 http://codingdojo.org/cgi-bin/index.pl?KataPokerHands
 
+
+#Build
+[![Build Status](https://travis-ci.org/vicboma1/Kata-Poker-Hands.svg)](https://travis-ci.org/vicboma1/Kata-Poker-Hands) 
+![](https://img.shields.io/badge/Java-1.8-blue.svg?logoWidth=8)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.eluder.coveralls/coveralls-maven-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eluder.coveralls/coveralls-maven-plugin/)
+
+
 # About this Kata
 This kata is blatantly stolen from acm.uva.es/p/v103/10315.html It is a subset of KataTexasHoldEm, which is a very large Kata.
 
