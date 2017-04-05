@@ -2,7 +2,7 @@
 http://codingdojo.org/cgi-bin/index.pl?KataPokerHands
 
 
-#Build
+# Build
 [![Build Status](https://travis-ci.org/vicboma1/Kata-Poker-Hands.svg)](https://travis-ci.org/vicboma1/Kata-Poker-Hands) 
 ![](https://img.shields.io/badge/Java-1.8-blue.svg?logoWidth=8)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.eluder.coveralls/coveralls-maven-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eluder.coveralls/coveralls-maven-plugin/)
